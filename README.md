@@ -1,2 +1,2 @@
 # JugoBot
-A bot made by team 15(Me with 3 other people) during second year of uni. 
+A bot made by team 15(Me and 3 other students) during second year of uni. 
